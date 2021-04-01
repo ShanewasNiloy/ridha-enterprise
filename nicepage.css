@@ -22443,7 +22443,7 @@ a.u-link.u-hover-palette-3-light-3:hover {
 .u-container-style.u-palette-3-base:before,
 .u-table-alt-palette-3-base tr:nth-child(even) {
   color: #ffffff;
-  background-color: #54a5b5;
+  background-color: #4398c1;
 }
 .u-button-style.u-palette-3-base,
 .u-button-style.u-palette-3-base[class*="u-border-"] {
@@ -25918,7 +25918,7 @@ li.active > a.u-button-style.u-button-style.u-border-active-palette-1-light-3 {
 }
 .u-border-palette-1-base,
 .u-separator-palette-1-base:after {
-  border-color: #34421e;
+  border-color: #29647d;
   stroke: #34421e;
 }
 .u-button-style.u-border-palette-1-base {
@@ -32043,7 +32043,7 @@ a.u-link.u-text-hover-grey-90:hover {
         {
         font-weight: 400;
         line-height: 1.6;
-        font-size: 1.125rem;
+        font-size: .9rem;
         margin-top: 20px;
         margin-bottom: 20px;
         }

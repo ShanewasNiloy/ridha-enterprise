@@ -65,19 +65,19 @@
 }
 
 .u-section-1 .u-image-2 {
-  background-image: url("images/1.jpg");
+  background-image: url("images/banner-1.jpg");
   min-height: 158px;
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-image-3 {
-  background-image: url("images/Untitled1.jpg");
+  background-image: url("images/banner-2.jpg");
   min-height: 158px;
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-image-4 {
-  background-image: url("images/2.jpg");
+  background-image: url("images/banner-3.jpg");
   min-height: 158px;
   background-position: 50% 50%;
 }
@@ -2325,6 +2325,7 @@ section .section-title {
 #team .card {
   border: none;
   background: #ffffff;
+  border-radius: 15px;
 }
 
 .image-flip:hover .backside,
@@ -2415,8 +2416,8 @@ section .section-title {
 }
 
 .frontside .card .card-body img {
-  width: 120px;
-  height: 120px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
 }
 /*Team*/
@@ -2464,6 +2465,7 @@ section .section-title {
 .cta-text {
   padding-left: 15px;
   display: inline-block;
+  max-width: 320px;
 }
 .cta-text h4 {
   color: #fff;
@@ -2605,3 +2607,8 @@ section .section-title {
   color: #878787;
 }
 /*contact location*/
+
+
+.carousel-indicators {
+  margin-bottom: -7px !important;
+}
